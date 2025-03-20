@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Item1"
+        android:title="อเมริกาโน่เย็น" />
+    <item
+        android:id="@+id/Item2"
+        android:title="ลาเต้เย็น" />
+    <item
+        android:id="@+id/Item3"
+        android:title="คาปูชิโน่เย็น" />
+    <item
+        android:id="@+id/Item4"
+        android:title="มอคค่าเย็น" />
+    <item
+        android:id="@+id/Item5"
+        android:title="ชาเขียวมัทฉะเย็น" />
+    <item
+        android:id="@+id/Item6"
+        android:title="ชานมไข่มุกเย็น" />
+    <item
+        android:id="@+id/Item7"
+        android:title="น้ำผึ้งมะนาวเย็น" />
+</menu>
